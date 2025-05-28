@@ -1,0 +1,10 @@
+Hello world
+Cool_Car
+Привіт світ
+open_ai
+AAABBBCCC
+_underscore_
+string_check
+Hello_C
+abcabcabc
+test_C_text
